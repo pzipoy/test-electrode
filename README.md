@@ -1,16 +1,16 @@
-# large-react [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> 
+# test-electrode [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+>
 
 ## Installation
 
 ```sh
-$ npm install --save large-react
+$ npm install --save test-electrode
 ```
 
 ## Usage
 
 ```js
-var largeReact = require('large-react');
+var largeReact = require('test-electrode');
 
 largeReact('Rainbow');
 ```
@@ -19,9 +19,9 @@ largeReact('Rainbow');
 Apache-2.0 © [Perry Zipoy]()
 
 
-[npm-image]: https://badge.fury.io/js/large-react.svg
-[npm-url]: https://npmjs.org/package/large-react
-[travis-image]: https://travis-ci.org/pzipoy/large-react.svg?branch=master
-[travis-url]: https://travis-ci.org/pzipoy/large-react
-[daviddm-image]: https://david-dm.org/pzipoy/large-react.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/pzipoy/large-react
+[npm-image]: https://badge.fury.io/js/test-electrode.svg
+[npm-url]: https://npmjs.org/package/test-electrode
+[travis-image]: https://travis-ci.org/pzipoy/test-electrode.svg?branch=master
+[travis-url]: https://travis-ci.org/pzipoy/test-electrode
+[daviddm-image]: https://david-dm.org/pzipoy/test-electrode.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/pzipoy/test-electrode

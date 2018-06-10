@@ -25,7 +25,7 @@ module.exports = {
     "webapp": {
       "module": "electrode-react-webapp/lib/hapi",
       "options": {
-        "pageTitle": "large-react",
+        "pageTitle": "test-electrode",
         "paths": {
           "/{args*}": {
             "content": {

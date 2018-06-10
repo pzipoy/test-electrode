@@ -1,5 +1,5 @@
 {
-  "name": "large-react",
+  "name": "test-electrode",
   "version": "0.0.1",
   "description": "",
   "homepage": "",
@@ -19,7 +19,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "pzipoy/large-react"
+    "url": "pzipoy/test-electrode"
   },
   "license": "Apache-2.0",
   "engines": {

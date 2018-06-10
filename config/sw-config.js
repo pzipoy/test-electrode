@@ -1,6 +1,6 @@
 module.exports = {
   cache: {
-    cacheId: "large-react",
+    cacheId: "test-electrode",
     runtimeCaching: [{
       handler: "fastest",
       urlPattern: "\/$"
@@ -9,7 +9,7 @@ module.exports = {
   },
   manifest: {
     background: "#FFFFFF",
-    title: "large-react",
+    title: "test-electrode",
     short_name: "PWA",
     theme_color: "#FFFFFF"
   }
